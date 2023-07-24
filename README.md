@@ -24,7 +24,7 @@ python3 make_submission.py
   - NVIDIA RTX A4000 
 
 
-## 上位解法のアイデア
+## 上位解法のアイデア(作成中)
 - 作品に関係する人数（"members", "watching", "completed", "on_hold", "dropped", "plan_to_watch"）
   - userごとにgroupbyした特徴量をさらにanimeごとにgroupbyするなど、2hop,3hop先の情報を特徴量として取得できるように次のように工夫
     - userごとに特徴量を集約
