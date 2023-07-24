@@ -19,6 +19,6 @@ python3 make_submission.py
 - CPU
   - AMD Ryzen 5 5600 6-Core Processor
 - RAM
-  - 48GM
+  - 48GB
 - GPU
   - NVIDIA RTX A4000 
